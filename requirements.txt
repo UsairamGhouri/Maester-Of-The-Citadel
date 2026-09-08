@@ -1,0 +1,14 @@
+flask>=3.1
+flask-sqlalchemy>=3.1
+flask-cors>=5.0
+pymupdf>=1.25
+# BM25 Sparse Search
+rank-bm25
+
+# Cross-Encoder Reranking
+sentence-transformers
+chromadb>=0.6
+google-genai>=1.0
+ollama>=0.4
+python-dotenv>=1.0
+Pillow>=11.0

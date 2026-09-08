@@ -1,0 +1,36 @@
+# Environment & Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Database
+data/*.db
+
+# ChromaDB persistent storage
+chroma_data/
+
+# Extracted assets (regenerable from source PDFs)
+app/static/extracted_images/
+
+# Uploaded PDFs (large binary files)
+app/static/uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Design docs
+*.docx
