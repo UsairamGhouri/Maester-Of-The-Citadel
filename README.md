@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed on your system:
 ### 1. Clone or Download the Repository
 Navigate to the project directory in your terminal:
 ```bash
-cd path/to/Course Helper
+cd path/to/"Maester Of The Citadel"
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
