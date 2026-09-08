@@ -1,6 +1,6 @@
-# The Citadel - Course Helper
+# Maester Of The Citadel - AI Course Helper
 
-The Citadel is a highly-optimized, fully-offline, Game of Thrones-themed AI course assistant. It allows you to upload documents (PDF, EPUB, DOCX, PPTX) into your personal library and seek wisdom from the texts using local AI models.
+Maester Of The Citadel is a highly-optimized, fully-offline, Game of Thrones-themed AI course assistant. It allows you to upload documents (PDF, EPUB, DOCX, PPTX) into your personal library and seek wisdom from the texts using local AI models.
 
 ## Core Features
 *   **100% Offline Architecture:** Relies exclusively on local models via Ollama and SentenceTransformers for true privacy and offline capabilities. No cloud API keys required!
